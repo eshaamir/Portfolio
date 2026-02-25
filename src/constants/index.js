@@ -7,9 +7,7 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
-  nodejs,
   git,
   figma,
   komikult,
@@ -74,16 +72,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
   },
   {
     name: "git",
@@ -98,7 +88,7 @@ const technologies = [
 const experiences = [
   {
     title: "Front-End Developer",
-    company_name: "Forbmax",
+    company_name: "BetaCodes Pakistan",
     icon: coverhunt,
     iconBg: "#333333",
     date: "Oct 2024 - Present",
